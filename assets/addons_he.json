@@ -1,0 +1,898 @@
+{
+	"addons_he": [
+	{
+	"Nom": "Achillée millefeuille",
+	"Propriétés": "Anti-inflammatoire, cicatrisante",
+	"Toxicité": "0",
+	"Parfum": "herbacé amer"
+	},
+	{
+	"Nom": "Ajowan",
+	"Propriétés": "Antibactérienne puissante, digestive",
+	"Toxicité": "0 E",
+	"Parfum": "épicé thymé"
+	},
+	{
+	"Nom": "Amyris",
+	"Propriétés": "Calmante, fixatrice",
+	"Toxicité": "0",
+	"Parfum": "boisé doux"
+	},
+	{
+	"Nom": "Aneth",
+	"Propriétés": "Digestive, antispasmodique",
+	"Toxicité": "0 E",
+	"Parfum": "anisé vert"
+	},
+	{
+	"Nom": "Aneth (semence)",
+	"Propriétés": "Digestive, carminative",
+	"Toxicité": "0",
+	"Parfum": "anisé chaud"
+	},
+	{
+	"Nom": "Angélique",
+	"Propriétés": "Tonique, digestive",
+	"Toxicité": "+ E",
+	"Parfum": "musqué herbacé"
+	},
+	{
+	"Nom": "Anis vert",
+	"Propriétés": "Digestive, carminative",
+	"Toxicité": "0",
+	"Parfum": "anisé doux"
+	},
+	{
+	"Nom": "Basilic grand vert",
+	"Propriétés": "Antispasmodique, tonique",
+	"Toxicité": "0",
+	"Parfum": "vert aromatique"
+	},
+	{
+	"Nom": "Basilic tropical",
+	"Propriétés": "Antibactérien, stimulant",
+	"Toxicité": "0",
+	"Parfum": "épicé camphré"
+	},
+	{
+	"Nom": "Basilic sacré",
+	"Propriétés": "Adaptogène léger, calmant",
+	"Toxicité": "0",
+	"Parfum": "épicé chaud"
+	},
+	{
+	"Nom": "Baume de copahu",
+	"Propriétés": "Anti-inflammatoire, cicatrisant",
+	"Toxicité": "0",
+	"Parfum": "résineux doux"
+	},
+	{
+	"Nom": "Benjoin",
+	"Propriétés": "Cicatrisant, protecteur cutané",
+	"Toxicité": "0",
+	"Parfum": "vanillé résineux"
+	},
+	{
+	"Nom": "Bergamotte",
+	"Propriétés": "Calmante, équilibrante",
+	"Toxicité": "++ E",
+	"Parfum": "agrume floral"
+	},
+	{
+	"Nom": "Bois de Hô",
+	"Propriétés": "Régénérant cutané",
+	"Toxicité": "0",
+	"Parfum": "boisé floral"
+	},
+	{
+	"Nom": "Bois de rose",
+	"Propriétés": "Régénérant cutané",
+	"Toxicité": "0",
+	"Parfum": "floral boisé"
+	},
+	{
+	"Nom": "Bois de Siam",
+	"Propriétés": "Tonique léger",
+	"Toxicité": "0",
+	"Parfum": "boisé sec"
+	},
+	{
+	"Nom": "Cade bois",
+	"Propriétés": "Antiseptique cutané",
+	"Toxicité": "0 E",
+	"Parfum": "fumé cuir"
+	},
+	{
+	"Nom": "Cajeput",
+	"Propriétés": "Antiseptique, expectorant",
+	"Toxicité": "0 E",
+	"Parfum": "camphré frais"
+	},
+	{
+	"Nom": "Camomille bleue - Tanaisie annuelle",
+	"Propriétés": "Anti-inflammatoire majeur",
+	"Toxicité": "0 E",
+	"Parfum": "herbacé amer"
+	},
+	{
+	"Nom": "Camomille du Maroc",
+	"Propriétés": "Calmante, antiallergique",
+	"Toxicité": "0 E",
+	"Parfum": "herbacé doux"
+	},
+	{
+	"Nom": "Camomille matricaire",
+	"Propriétés": "Apaisante, anti-inflammatoire",
+	"Toxicité": "0 E",
+	"Parfum": "herbacé fruité"
+	},
+	{
+	"Nom": "Camomille noble (romaine)",
+	"Propriétés": "Calmante, antispasmodique",
+	"Toxicité": "0 E",
+	"Parfum": "pomme herbacée"
+	},
+	{
+	"Nom": "Camphre",
+	"Propriétés": "Stimulant, rubéfiant",
+	"Toxicité": "0 E",
+	"Parfum": "camphré vif"
+	},
+	{
+	"Nom": "Cannelle cassia",
+	"Propriétés": "Antibactérienne très puissante",
+	"Toxicité": "++ E",
+	"Parfum": "épicé brûlant"
+	},
+	{
+	"Nom": "Canelle écorce",
+	"Propriétés": "Antibactérienne puissante",
+	"Toxicité": "++ E",
+	"Parfum": "épicé chaud"
+	},
+	{
+	"Nom": "Cannelle feuilles",
+	"Propriétés": "Antibactérienne",
+	"Toxicité": "+ E",
+	"Parfum": "épicé vert"
+	},
+	{
+	"Nom": "Cardamome",
+	"Propriétés": "Digestive, tonique",
+	"Toxicité": "0",
+	"Parfum": "épicé frais"
+	},
+	{
+	"Nom": "Carotte (ombelle)",
+	"Propriétés": "Régénérante cutanée",
+	"Toxicité": "0",
+	"Parfum": "terreux doux"
+	},
+	{
+	"Nom": "Carotte (semence)",
+	"Propriétés": "Détoxifiante, régénérante",
+	"Toxicité": "0",
+	"Parfum": "terreux sec"
+	},
+	{
+	"Nom": "Cèdre bois",
+	"Propriétés": "Drainant, tonique",
+	"Toxicité": "0 E",
+	"Parfum": "boisé sec"
+	},
+	{
+	"Nom": "Cèdre de Virginie",
+	"Propriétés": "Répulsif, tonique",
+	"Toxicité": "0",
+	"Parfum": "boisé fumé"
+	},
+	{
+	"Nom": "Céleri",
+	"Propriétés": "Drainant, digestif",
+	"Toxicité": "+",
+	"Parfum": "herbacé salé"
+	},
+	{
+	"Nom": "Ciste",
+	"Propriétés": "Cicatrisant, hémostatique",
+	"Toxicité": "0",
+	"Parfum": "résineux chaud"
+	},
+	{
+	"Nom": "Citron",
+	"Propriétés": "Tonique, purifiant",
+	"Toxicité": "++",
+	"Parfum": "agrume vif"
+	},
+	{
+	"Nom": "Citron vert",
+	"Propriétés": "Tonique",
+	"Toxicité": "++",
+	"Parfum": "agrume acide"
+	},
+	{
+	"Nom": "Citronelle de Ceylan",
+	"Propriétés": "Répulsive, antifongique",
+	"Toxicité": "0",
+	"Parfum": "citronné herbacé"
+	},
+	{
+	"Nom": "Citronnelle de Java",
+	"Propriétés": "Répulsive",
+	"Toxicité": "0 E",
+	"Parfum": "citronné sec"
+	},
+	{
+	"Nom": "Clémentine",
+	"Propriétés": "Calmante",
+	"Toxicité": "+",
+	"Parfum": "agrume doux"
+	},
+	{
+	"Nom": "Clous de girofle",
+	"Propriétés": "Antalgique, antibactérien",
+	"Toxicité": "++ E",
+	"Parfum": "épicé chaud"
+	},
+	{
+	"Nom": "Coriandre plante",
+	"Propriétés": "Digestive légère",
+	"Toxicité": "0 E",
+	"Parfum": "vert aromatique"
+	},
+	{
+	"Nom": "Coriandre semence",
+	"Propriétés": "Digestive, carminative",
+	"Toxicité": "0",
+	"Parfum": "épicé doux"
+	},
+	{
+	"Nom": "Criste marine",
+	"Propriétés": "Drainante",
+	"Toxicité": "0 E",
+	"Parfum": "marin herbacé"
+	},
+	{
+	"Nom": "Cumin",
+	"Propriétés": "Digestive",
+	"Toxicité": "0",
+	"Parfum": "épicé chaud"
+	},
+	{
+	"Nom": "Curcuma",
+	"Propriétés": "Anti-inflammatoire",
+	"Toxicité": "0 E",
+	"Parfum": "épicé terreux"
+	},
+	{
+	"Nom": "Cyprès",
+	"Propriétés": "Circulatoire, astringent",
+	"Toxicité": "0",
+	"Parfum": "résineux vert"
+	},
+	{
+	"Nom": "Elémi",
+	"Propriétés": "Cicatrisant, calmant",
+	"Toxicité": "0",
+	"Parfum": "résineux citronné"
+	},
+	{
+	"Nom": "Encens oliban",
+	"Propriétés": "Calmante, régénérante",
+	"Toxicité": "0 E",
+	"Parfum": "résineux sacré"
+	},
+	{
+	"Nom": "Épinette blanche",
+	"Propriétés": "Tonique respiratoire",
+	"Toxicité": "0",
+	"Parfum": "résineux frais"
+	},
+	{
+	"Nom": "Épinette bleue",
+	"Propriétés": "Tonique",
+	"Toxicité": "0",
+	"Parfum": "résineux balsamique"
+	},
+	{
+	"Nom": "Épinette noire",
+	"Propriétés": "Stimulante",
+	"Toxicité": "0",
+	"Parfum": "résineux profond"
+	},
+	{
+	"Nom": "Estragon",
+	"Propriétés": "Antispasmodique",
+	"Toxicité": "0 E",
+	"Parfum": "anisé herbacé"
+	},
+	{
+	"Nom": "Eucalyptus citronné",
+	"Propriétés": "Anti-inflammatoire",
+	"Toxicité": "0",
+	"Parfum": "citronné frais"
+	},
+	{
+	"Nom": "Eucalyptus globulus",
+	"Propriétés": "Expectorant",
+	"Toxicité": "0 E",
+	"Parfum": "camphré puissant"
+	},
+	{
+	"Nom": "Eucalyptus mentholé",
+	"Propriétés": "Stimulant",
+	"Toxicité": "0",
+	"Parfum": "mentholé vif"
+	},
+	{
+	"Nom": "Eucalyptus radiata",
+	"Propriétés": "Respiratoire doux",
+	"Toxicité": "0",
+	"Parfum": "camphré doux"
+	},
+	{
+	"Nom": "Eucalyptus smithii",
+	"Propriétés": "Respiratoire",
+	"Toxicité": "0 E",
+	"Parfum": "frais doux"
+	},
+	{
+	"Nom": "Fragonia",
+	"Propriétés": "Équilibrante",
+	"Toxicité": "0",
+	"Parfum": "floral frais"
+	},
+	{
+	"Nom": "Galbanum",
+	"Propriétés": "Anti-inflammatoire",
+	"Toxicité": "0 E",
+	"Parfum": "vert résineux"
+	},
+	{
+	"Nom": "Gaulthérie couchée",
+	"Propriétés": "Antalgique puissant",
+	"Toxicité": "0",
+	"Parfum": "mentholé sucré"
+	},
+	{
+	"Nom": "Gaulthérie odorante",
+	"Propriétés": "Antalgique",
+	"Toxicité": "0",
+	"Parfum": "mentholé chaud"
+	},
+	{
+	"Nom": "Genévrier",
+	"Propriétés": "Drainant",
+	"Toxicité": "0 E",
+	"Parfum": "boisé sec"
+	},
+	{
+	"Nom": "Géranium bourbon",
+	"Propriétés": "Équilibrant cutané",
+	"Toxicité": "0",
+	"Parfum": "floral rosé"
+	},
+	{
+	"Nom": "Géranium rosat d'Égypte",
+	"Propriétés": "Régulateur sébum",
+	"Toxicité": "0",
+	"Parfum": "rosé vert"
+	},
+	{
+	"Nom": "Gingembre",
+	"Propriétés": "Stimulant",
+	"Toxicité": "0",
+	"Parfum": "épicé chaud"
+	},
+	{
+	"Nom": "Hélichryse italienne",
+	"Propriétés": "Cicatrisante majeure",
+	"Toxicité": "0 E",
+	"Parfum": "herbacé miel"
+	},
+	{
+	"Nom": "Hysope decumbens 1,8 cinéol",
+	"Propriétés": "Expectorante",
+	"Toxicité": "0",
+	"Parfum": "herbacé camphré"
+	},
+	{
+	"Nom": "Inule odorante",
+	"Propriétés": "Respiratoire",
+	"Toxicité": "0",
+	"Parfum": "herbacé chaud"
+	},
+	{
+	"Nom": "Jasmin égyptien aboslue",
+	"Propriétés": "Calmante",
+	"Toxicité": "0",
+	"Parfum": "floral opulent"
+	},
+	{
+	"Nom": "Jasmin égyptien extrait",
+	"Propriétés": "Relaxante",
+	"Toxicité": "0",
+	"Parfum": "floral sucré"
+	},
+	{
+	"Nom": "Jasmin indien absolue",
+	"Propriétés": "Apaisante",
+	"Toxicité": "0",
+	"Parfum": "floral animal"
+	},
+	{
+	"Nom": "Katafray",
+	"Propriétés": "Tonique",
+	"Toxicité": "0",
+	"Parfum": "boisé épicé"
+	},
+	{
+	"Nom": "Khella",
+	"Propriétés": "Antispasmodique",
+	"Toxicité": "0 E",
+	"Parfum": "herbacé sec"
+	},
+	{
+	"Nom": "Kunzea",
+	"Propriétés": "Antimicrobienne douce",
+	"Toxicité": "0",
+	"Parfum": "herbacé résineux"
+	},
+	{
+	"Nom": "Laurier noble",
+	"Propriétés": "Antibactérien",
+	"Toxicité": "0",
+	"Parfum": "aromatique vert"
+	},
+	{
+	"Nom": "Lavande aspic",
+	"Propriétés": "Antalgique",
+	"Toxicité": "0",
+	"Parfum": "camphré floral"
+	},
+	{
+	"Nom": "Lavande fine altitude",
+	"Propriétés": "Calmante",
+	"Toxicité": "0",
+	"Parfum": "floral frais"
+	},
+	{
+	"Nom": "Lavande fine",
+	"Propriétés": "Relaxante",
+	"Toxicité": "0",
+	"Parfum": "floral doux"
+	},
+	{
+	"Nom": "Lavande maillette",
+	"Propriétés": "Calmante",
+	"Toxicité": "0",
+	"Parfum": "floral rond"
+	},
+	{
+	"Nom": "Lavande stoechade",
+	"Propriétés": "Décongestionnante",
+	"Toxicité": "0 E",
+	"Parfum": "camphré herbacé"
+	},
+	{
+	"Nom": "Lavande grosso",
+	"Propriétés": "Relaxante",
+	"Toxicité": "0",
+	"Parfum": "floral puissant"
+	},
+	{
+	"Nom": "Lavandin super",
+	"Propriétés": "Décontractant",
+	"Toxicité": "0",
+	"Parfum": "floral camphré"
+	},
+	{
+	"Nom": "Ledon du Groenland",
+	"Propriétés": "Calmante",
+	"Toxicité": "0 E",
+	"Parfum": "résineux herbacé"
+	},
+	{
+	"Nom": "Lemongrass",
+	"Propriétés": "Antifongique",
+	"Toxicité": "0 E",
+	"Parfum": "citronné vif"
+	},
+	{
+	"Nom": "Lentisque pistachier",
+	"Propriétés": "Circulatoire",
+	"Toxicité": "0",
+	"Parfum": "résineux vert"
+	},
+	{
+	"Nom": "Leptosperme citronné",
+	"Propriétés": "Calmante",
+	"Toxicité": "0",
+	"Parfum": "citronné doux"
+	},
+	{
+	"Nom": "Litsée citronnée",
+	"Propriétés": "Calmante",
+	"Toxicité": "0",
+	"Parfum": "citronné sucré"
+	},
+	{
+	"Nom": "Livèche",
+	"Propriétés": "Digestive",
+	"Toxicité": "0 E",
+	"Parfum": "céleri chaud"
+	},
+	{
+	"Nom": "Livèche (racine)",
+	"Propriétés": "Digestive",
+	"Toxicité": "0",
+	"Parfum": "terreux épicé"
+	},
+	{
+	"Nom": "Mandarine rouge",
+	"Propriétés": "Calmante",
+	"Toxicité": "+",
+	"Parfum": "agrume sucré"
+	},
+	{
+	"Nom": "Mandarine verte",
+	"Propriétés": "Calmante",
+	"Toxicité": "+",
+	"Parfum": "agrume vert"
+	},
+	{
+	"Nom": "Manuka",
+	"Propriétés": "Antibactérienne",
+	"Toxicité": "0",
+	"Parfum": "herbacé miellé"
+	},
+	{
+	"Nom": "Marjolaine à coquille",
+	"Propriétés": "Calmante",
+	"Toxicité": "0 E",
+	"Parfum": "herbacé doux"
+	},
+	{
+	"Nom": "Marjolaine à Thujanol",
+	"Propriétés": "Immunostimulante",
+	"Toxicité": "0 E",
+	"Parfum": "herbacé chaud"
+	},
+	{
+	"Nom": "Mélisse",
+	"Propriétés": "Calmante",
+	"Toxicité": "+ E",
+	"Parfum": "citronné doux"
+	},
+	{
+	"Nom": "Menthe bergamote",
+	"Propriétés": "Tonique",
+	"Toxicité": "0",
+	"Parfum": "mentholé doux"
+	},
+	{
+	"Nom": "Menthe des champs",
+	"Propriétés": "Stimulante",
+	"Toxicité": "0",
+	"Parfum": "mentholé vif"
+	},
+	{
+	"Nom": "Menthe poivrée",
+	"Propriétés": "Stimulante",
+	"Toxicité": "0 E",
+	"Parfum": "mentholé froid"
+	},
+	{
+	"Nom": "Menthe verte",
+	"Propriétés": "Digestive",
+	"Toxicité": "0 E",
+	"Parfum": "mentholé vert"
+	},
+	{
+	"Nom": "Millepertuis",
+	"Propriétés": "Apaisant cutané",
+	"Toxicité": "++",
+	"Parfum": "herbacé gras"
+	},
+	{
+	"Nom": "Monarde",
+	"Propriétés": "Antibactérienne",
+	"Toxicité": "0",
+	"Parfum": "thymé chaud"
+	},
+	{
+	"Nom": "Muscade (noix de)",
+	"Propriétés": "Stimulante",
+	"Toxicité": "0 E",
+	"Parfum": "épicé chaud"
+	},
+	{
+	"Nom": "Myrrhe",
+	"Propriétés": "Cicatrisante",
+	"Toxicité": "0",
+	"Parfum": "résineux amer"
+	},
+	{
+	"Nom": "Myrte citronnée",
+	"Propriétés": "Respiratoire",
+	"Toxicité": "0 E",
+	"Parfum": "frais citronné"
+	},
+	{
+	"Nom": "Myrte rouge à Cinéole",
+	"Propriétés": "Respiratoire",
+	"Toxicité": "0 E",
+	"Parfum": "camphré doux"
+	},
+	{
+	"Nom": "Myrte verte extra sup",
+	"Propriétés": "Tonique",
+	"Toxicité": "0 E",
+	"Parfum": "herbacé frais"
+	},
+	{
+	"Nom": "Nard",
+	"Propriétés": "Calmante profonde",
+	"Toxicité": "0 E",
+	"Parfum": "terreux musqué"
+	},
+	{
+	"Nom": "Néroli",
+	"Propriétés": "Calmante",
+	"Toxicité": "0",
+	"Parfum": "floral hespéridé"
+	},
+	{
+	"Nom": "Niaouli",
+	"Propriétés": "Antibactérienne",
+	"Toxicité": "0",
+	"Parfum": "camphré doux"
+	},
+	{
+	"Nom": "Orange douce",
+	"Propriétés": "Calmante",
+	"Toxicité": "+ E",
+	"Parfum": "agrume sucré"
+	},
+	{
+	"Nom": "Origan",
+	"Propriétés": "Antibactérien puissant",
+	"Toxicité": "+ E",
+	"Parfum": "épicé chaud"
+	},
+	{
+	"Nom": "Palmarosa",
+	"Propriétés": "Régénérante cutanée",
+	"Toxicité": "0",
+	"Parfum": "floral rosé"
+	},
+	{
+	"Nom": "Pamplemousse",
+	"Propriétés": "Tonique",
+	"Toxicité": "++ E",
+	"Parfum": "agrume amer"
+	},
+	{
+	"Nom": "Patchouli",
+	"Propriétés": "Régénérant",
+	"Toxicité": "0 E",
+	"Parfum": "terreux boisé"
+	},
+	{
+	"Nom": "Petit grain bigarade",
+	"Propriétés": "Calmante",
+	"Toxicité": "0",
+	"Parfum": "vert floral"
+	},
+	{
+	"Nom": "Petit grain combava",
+	"Propriétés": "Tonique",
+	"Toxicité": "0",
+	"Parfum": "vert citronné"
+	},
+	{
+	"Nom": "Petit grain mandarine",
+	"Propriétés": "Calmante",
+	"Toxicité": "0",
+	"Parfum": "vert doux"
+	},
+	{
+	"Nom": "Pin de Patagonie",
+	"Propriétés": "Respiratoire",
+	"Toxicité": "0",
+	"Parfum": "résineux frais"
+	},
+	{
+	"Nom": "Pin maritime",
+	"Propriétés": "Tonique",
+	"Toxicité": "0 E",
+	"Parfum": "résineux sec"
+	},
+	{
+	"Nom": "Pin sylvestre",
+	"Propriétés": "Respiratoire",
+	"Toxicité": "0 E",
+	"Parfum": "résineux vif"
+	},
+	{
+	"Nom": "Poivre noir",
+	"Propriétés": "Stimulant",
+	"Toxicité": "0 E",
+	"Parfum": "épicé sec"
+	},
+	{
+	"Nom": "Pruche",
+	"Propriétés": "Calmante",
+	"Toxicité": "0 E",
+	"Parfum": "résineux doux"
+	},
+	{
+	"Nom": "Ravensare aromatique",
+	"Propriétés": "Immunostimulante",
+	"Toxicité": "0",
+	"Parfum": "épicé frais"
+	},
+	{
+	"Nom": "Ravintsare",
+	"Propriétés": "Antivirale",
+	"Toxicité": "0",
+	"Parfum": "camphré doux"
+	},
+	{
+	"Nom": "Rhododendron",
+	"Propriétés": "Relaxante",
+	"Toxicité": "0",
+	"Parfum": "floral résineux"
+	},
+	{
+	"Nom": "Romarin 1,8 cinéole",
+	"Propriétés": "Stimulant",
+	"Toxicité": "0 E",
+	"Parfum": "herbacé camphré"
+	},
+	{
+	"Nom": "Romarin à camphre",
+	"Propriétés": "Tonique",
+	"Toxicité": "0 E",
+	"Parfum": "herbacé vif"
+	},
+	{
+	"Nom": "Romarin à verbénone",
+	"Propriétés": "Régénérant hépatique",
+	"Toxicité": "0",
+	"Parfum": "herbacé doux"
+	},
+	{
+	"Nom": "Rose de Damas",
+	"Propriétés": "Apaisante",
+	"Toxicité": "0",
+	"Parfum": "floral profond"
+	},
+	{
+	"Nom": "Rose de Damas absolue",
+	"Propriétés": "Calmante",
+	"Toxicité": "0",
+	"Parfum": "floral opulent"
+	},
+	{
+	"Nom": "Santal",
+	"Propriétés": "Calmante",
+	"Toxicité": "0",
+	"Parfum": "boisé crémeux"
+	},
+	{
+	"Nom": "Santal bois",
+	"Propriétés": "Relaxante",
+	"Toxicité": "0",
+	"Parfum": "boisé doux"
+	},
+	{
+	"Nom": "Sapin baumier",
+	"Propriétés": "Respiratoire",
+	"Toxicité": "0 E",
+	"Parfum": "résineux balsamique"
+	},
+	{
+	"Nom": "Sapin blanc argenté",
+	"Propriétés": "Tonique",
+	"Toxicité": "0",
+	"Parfum": "résineux frais"
+	},
+	{
+	"Nom": "Sapin de Sibérie",
+	"Propriétés": "Respiratoire",
+	"Toxicité": "0 E",
+	"Parfum": "résineux froid"
+	},
+	{
+	"Nom": "Saro",
+	"Propriétés": "Antivirale",
+	"Toxicité": "0",
+	"Parfum": "camphré citronné"
+	},
+	{
+	"Nom": "Sarriette des montagnes",
+	"Propriétés": "Antibactérienne forte",
+	"Toxicité": "+ E",
+	"Parfum": "épicé piquant"
+	},
+	{
+	"Nom": "Sauge sclarée",
+	"Propriétés": "Régulatrice hormonale",
+	"Toxicité": "0 E",
+	"Parfum": "herbacé musqué"
+	},
+	{
+	"Nom": "Serpolet",
+	"Propriétés": "Antibactérien",
+	"Toxicité": "0",
+	"Parfum": "herbacé chaud"
+	},
+	{
+	"Nom": "Tea Tree (Arbre à thé)",
+	"Propriétés": "Antibactérien",
+	"Toxicité": "0",
+	"Parfum": "médicinal frais"
+	},
+	{
+	"Nom": "Térébenthine",
+	"Propriétés": "Stimulante",
+	"Toxicité": "0 E",
+	"Parfum": "résineux brut"
+	},
+	{
+	"Nom": "Thym à thujanol-4",
+	"Propriétés": "Immunostimulant",
+	"Toxicité": "0 E",
+	"Parfum": "herbacé doux"
+	},
+	{
+	"Nom": "Thym doux à linalol",
+	"Propriétés": "Antibactérien doux",
+	"Toxicité": "0",
+	"Parfum": "floral herbacé"
+	},
+	{
+	"Nom": "Thym rouge à thymol",
+	"Propriétés": "Antibactérien fort",
+	"Toxicité": "+",
+	"Parfum": "thymé brûlant"
+	},
+	{
+	"Nom": "Thym saturéoïde à bornéol",
+	"Propriétés": "Antibactérien",
+	"Toxicité": "0",
+	"Parfum": "herbacé chaud"
+	},
+	{
+	"Nom": "Valériane",
+	"Propriétés": "Calmante",
+	"Toxicité": "0",
+	"Parfum": "terreux fort"
+	},
+	{
+	"Nom": "Vanille",
+	"Propriétés": "Calmante",
+	"Toxicité": "0",
+	"Parfum": "sucré gourmand"
+	},
+	{
+	"Nom": "Verveine odorante",
+	"Propriétés": "Calmante",
+	"Toxicité": "0",
+	"Parfum": "citronné floral"
+	},
+	{
+	"Nom": "Vetyver",
+	"Propriétés": "Ancrant",
+	"Toxicité": "0 E",
+	"Parfum": "terreux fumé"
+	},
+	{
+	"Nom": "Ylang Ylang complète",
+	"Propriétés": "Relaxante",
+	"Toxicité": "0",
+	"Parfum": "floral exotique"
+	}
+  ]
+}

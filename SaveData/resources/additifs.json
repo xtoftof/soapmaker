@@ -1,0 +1,190 @@
+{
+    "additifs": [
+        {
+            "Cat": "Liquide",
+            "Additif": "Eau infusée (ex. Thé ou Verveine)",
+            "Propriété": "Donne couleur, arôme doux",
+            "% conseillé": "100%"
+        },
+        {
+            "Cat": "Liquide",
+            "Additif": "Lait animal",
+            "Propriété": "Nourrissant, mousse crémeuse",
+            "% conseillé": "20-100%"
+        },
+        {
+            "Cat": "Liquide",
+            "Additif": "Lait végétal",
+            "Propriété": "Nourrissant, mousse crémeuse",
+            "% conseillé": "20-100%"
+        },
+        {
+            "Cat": "Liquide",
+            "Additif": "Glycerin liquide",
+            "Propriété": "Humectant, adoucit peau",
+            "% conseillé": "5-10%"
+        },
+        {
+            "Cat": "Liquide",
+            "Additif": "Jus de plantes (ex. tomate)",
+            "Propriété": "Couleur et actifs",
+            "% conseillé": "5–35%"
+        },
+        {
+            "Cat": "Liquide",
+            "Additif": "Aloe Vera",
+            "Propriété": "Hydratant, adoucit",
+            "% conseillé": "5-20%"
+        },
+        {
+            "Cat": "Liquide",
+            "Additif": "Bière",
+            "Propriété": "Nourrissant, mousse plus",
+            "% conseillé": "10-100%"
+        },
+        {
+            "Cat": "Trace",
+            "Additif": "Argile - kaolin",
+            "Propriété": "Absorption sébum, douceur, couleur",
+            "% conseillé": "0,5–5%"
+        },
+        {
+            "Cat": "Trace",
+            "Additif": "Argile - bentonite",
+            "Propriété": "Absorption sébum, douceur, couleur",
+            "% conseillé": "0,5–5%"
+        },
+        {
+            "Cat": "Trace",
+            "Additif": "Argile - rhassoul",
+            "Propriété": "Absorption sébum, douceur, couleur",
+            "% conseillé": "0,5–5%"
+        },
+        {
+            "Cat": "Trace",
+            "Additif": "Argile - verte",
+            "Propriété": "Absorption sébum, douceur, couleur",
+            "% conseillé": "0,5–5%"
+        },
+        {
+            "Cat": "Trace",
+            "Additif": "Argile - pink clay",
+            "Propriété": "Absorption sébum, douceur, couleur",
+            "% conseillé": "0,5–5%"
+        },
+        {
+            "Cat": "Trace",
+            "Additif": "Charbon actif",
+            "Propriété": "Purifiant, adsorption impuretés",
+            "% conseillé": "0,5–1%"
+        },
+        {
+            "Cat": "Trace",
+            "Additif": "Avoine colloïdale",
+            "Propriété": "Apaisant, barrière protectrice",
+            "% conseillé": "1-5%"
+        },
+        {
+            "Cat": "Trace",
+            "Additif": "Plantes séchés",
+            "Propriété": "Actifs botaniques, texture",
+            "% conseillé": "0,5–3%"
+        },
+        {
+            "Cat": "Trace",
+            "Additif": "Exfoliants - pavot",
+            "Propriété": "Exfoliation mécanique",
+            "% conseillé": "1–3%"
+        },
+        {
+            "Cat": "Trace",
+            "Additif": "Exfoliants - marc de café",
+            "Propriété": "Exfoliation mécanique",
+            "% conseillé": "1–5%"
+        },
+        {
+            "Cat": "Trace",
+            "Additif": "Exfoliants - sable fin",
+            "Propriété": "Exfoliation mécanique",
+            "% conseillé": "0,5–3%"
+        },
+        {
+            "Cat": "Trace",
+            "Additif": "Exfoliants - Argiles",
+            "Propriété": "Exfoliation mécanique",
+            "% conseillé": "0,5–5%"
+        },
+        {
+            "Cat": "Trace",
+            "Additif": "Sels",
+            "Propriété": "Durcissant, effet bar",
+            "% conseillé": "1–50%"
+        },
+        {
+            "Cat": "Trace",
+            "Additif": "Acide citrique",
+            "Propriété": "Ajuste ionisation, aide eau dure",
+            "% conseillé": "0,5-3%"
+        },
+        {
+            "Cat": "Trace",
+            "Additif": "Vitamine E",
+            "Propriété": "Antioxydant, protège huiles",
+            "% conseillé": "0,1–0,5%"
+        },
+        {
+            "Cat": "Trace",
+            "Additif": "Micas cosmétiques",
+            "Propriété": "Couleur, léger brillant",
+            "% conseillé": "0,1–0,5%"
+        },
+        {
+            "Cat": "Trace",
+            "Additif": "Oxyde minéral",
+            "Propriété": "Couleur intense",
+            "% conseillé": "0,1–0,5%"
+        },
+        {
+            "Cat": "Trace",
+            "Additif": "Titanium Dioxide",
+            "Propriété": "Opacifiant (blanc)",
+            "% conseillé": "0,1%"
+        },
+        {
+            "Cat": "Trace",
+            "Additif": "Teinture sèche",
+            "Propriété": "Teintes naturelles",
+            "% conseillé": "0,1-5%"
+        },
+        {
+            "Cat": "Trace",
+            "Additif": "Spiruline verte",
+            "Propriété": "Vert naturel",
+            "% conseillé": "0,1–0,5%"
+        },
+        {
+            "Cat": "Trace",
+            "Additif": "Beetroot, turmeric",
+            "Propriété": "Couleurs naturelles",
+            "% conseillé": ""
+        },
+        {
+            "Cat": "Trace",
+            "Additif": "Fleurs séchées",
+            "Propriété": "Esthétique et texture",
+            "% conseillé": "1–3%"
+        },
+        {
+            "Cat": "Trace",
+            "Additif": "Poudres de racines",
+            "Propriété": "Teintes historiques",
+            "% conseillé": "1-3%"
+        },
+        {
+            "Additif": "Urine de chameau",
+            "Propriété": "Soin de la peau",
+            "% conseillé": "5-75%",
+            "Cat": "Liquide"
+        }
+    ]
+}

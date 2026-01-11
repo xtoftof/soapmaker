@@ -1,0 +1,32 @@
+{
+    "nom_recette": "grosse recette",
+    "mode": "%",
+    "poids_total_desire": 1000.0,
+    "corps_gras": {
+        "Huile d’olive": 70.0,
+        "Huile de ricin": 10.0,
+        "Huile de tournesol": 20.0
+    },
+    "surgras": 6,
+    "proportion_eau": 33,
+    "substitut_liquide": "Lait animal",
+    "pourcentage_substitut": 50,
+    "additifs": {},
+    "he": {},
+    "resultats": {
+        "poids_huiles": 653.59477124183,
+        "detail_huiles_g": {
+            "Huile d’olive": 457.51633986928096,
+            "Huile de ricin": 65.359477124183,
+            "Huile de tournesol": 130.718954248366
+        },
+        "poids_soude": 82.09947712418298,
+        "poids_liquide_total": 215.68627450980392,
+        "poids_eau": 107.84313725490196,
+        "poids_substitut": 107.84313725490196,
+        "total_frais": 951.380522875817,
+        "total_cure": 865.1060130718954,
+        "volume": 903.8114967320261
+    },
+    "date_creation": "2026-01-11 09:28"
+}

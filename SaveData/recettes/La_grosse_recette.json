@@ -1,0 +1,36 @@
+{
+    "nom_recette": "grosse recette",
+    "mode": "Poids",
+    "poids_total_desire": 0.0,
+    "corps_gras": {
+        "Huile d’olive": 500.0,
+        "Huile de ricin": 100.0,
+        "Huile de tournesol": 400.0
+    },
+    "surgras": 2,
+    "proportion_eau": 33,
+    "substitut_liquide": "Aloe Vera",
+    "pourcentage_substitut": 20,
+    "additifs": {
+        "Argile - verte": 50.0
+    },
+    "he": {
+        "Camomille noble (romaine)": 15.0
+    },
+    "resultats": {
+        "poids_huiles": 1000.0,
+        "detail_huiles_g": {
+            "Huile d’olive": 500.0,
+            "Huile de ricin": 100.0,
+            "Huile de tournesol": 400.0
+        },
+        "poids_soude": 131.15339999999998,
+        "poids_liquide_total": 330.0,
+        "poids_eau": 264.0,
+        "poids_substitut": 66.0,
+        "total_frais": 1526.1534,
+        "total_cure": 1394.1534,
+        "volume": 1449.8457299999998
+    },
+    "date_creation": "2026-01-11 08:28"
+}

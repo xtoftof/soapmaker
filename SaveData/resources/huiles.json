@@ -1,0 +1,391 @@
+{
+	"huiles": [
+	{
+	"nom": "Beurre de cacao",
+	"sap_naoh": 0.137,
+	"recommande": "5–15 %",
+	"qualite": "durete élevée, longévité",
+	"durete": "Élevée",
+	"mousse": "Crémeuse"
+	},
+	{
+	"nom": "Beurre de cupuaçu",
+	"sap_naoh": 0.137,
+	"recommande": "5–15 %",
+	"qualite": "Bonne tenue, émollient",
+	"durete": "Moyenne",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Beurre de karité",
+	"sap_naoh": 0.128,
+	"recommande": "5–20 %",
+	"qualite": "Crémeux, nourrissant, durabilité",
+	"durete": "Moyenne",
+	"mousse": "Crémeuse"
+	},
+	{
+	"nom": "Beurre de kokum",
+	"sap_naoh": 0.1357,
+	"recommande": "2–10 %",
+	"qualite": "Très dur, savon pierre",
+	"durete": "Élevée",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Beurre de mangue",
+	"sap_naoh": 0.135,
+	"recommande": "5–15 %",
+	"qualite": "Crémeux, stabilité",
+	"durete": "Moyenne",
+	"mousse": "Crémeuse"
+	},
+	{
+	"nom": "Beurre de muscade",
+	"sap_naoh": 0.116,
+	"recommande": "5–15 %",
+	"qualite": "Antiseptique, stimulante",
+	"durete": "Moyenne",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Beurre de sal",
+	"sap_naoh": 0.1306,
+	"recommande": "2–10 %",
+	"qualite": "Régénératrice, apaisante",
+	"durete": "Moyenne",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Beurre d’illipé",
+	"sap_naoh": 0.1385,
+	"recommande": "5–15 %",
+	"qualite": "durete, stabilité",
+	"durete": "Moyenne",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Cire d'abeille",
+	"sap_naoh": 0.069,
+	"recommande": "2–6 %",
+	"qualite": "protection de la peau",
+	"durete": "Élevée",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Cire de candelilla",
+	"sap_naoh": 0.041,
+	"recommande": "0,5–2 %",
+	"qualite": "Film protecteur, durete",
+	"durete": "Élevée",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Cire de carnauba",
+	"sap_naoh": 0.0635,
+	"recommande": "0,5–2 %",
+	"qualite": "Rigidité extrême",
+	"durete": "Élevée",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile d'abricot",
+	"sap_naoh": 0.136,
+	"recommande": "5–15 %",
+	"qualite": "Douce, pénétrante",
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile d’amande douce",
+	"sap_naoh": 0.136,
+	"recommande": "5–20 %",
+	"qualite": "Apaisante, peau sensible",
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile d'arachide",
+	"sap_naoh": 0.136,
+	"recommande": "5–25 %",
+	"qualite": "Nourrissante",
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile d'argan",
+	"sap_naoh": 0.136,
+	"recommande": "2–10 %",
+	"qualite": "Hydratantes, régénérantes",
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile d’avocat",
+	"sap_naoh": 0.133,
+	"recommande": "5–20 %",
+	"qualite": "Nourrissante, douce",
+	"durete": "Moyenne",
+	"mousse": "Crémeuse"
+	},
+	{
+	"nom": "Huile de babassu",
+	"sap_naoh": 0.175,
+	"recommande": "10–30 %",
+	"qualite": "durete + mousse",
+	"durete": "Élevée",
+	"mousse": "Abondante"
+	},
+	{
+	"nom": "Huile de bourrache",
+	"sap_naoh": 0.1357,
+	"recommande": "2–10 %",
+	"qualite": "Hydratantes, régénérantes",
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile de camelina",
+	"sap_naoh": 0.1333,
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile de camellia",
+	"sap_naoh": 0.1362,
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile de canola",
+	"sap_naoh": 0.1324,
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile de carthame",
+	"sap_naoh": 0.136,
+	"recommande": "5–20 %",
+	"qualite": "Apaisante, réparatrice",
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile de chanvre",
+	"sap_naoh": 0.1345,
+	"recommande": "5–10 %",
+	"qualite": "Apaisante, réparatrice",
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile de citrouille",
+	"sap_naoh": 0.1331,
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile de colza",
+	"sap_naoh": 0.124,
+	"recommande": "5–20 %",
+	"qualite": "Émolliente, économique",
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile de coton",
+	"sap_naoh": 0.1386,
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile de germe de blé",
+	"sap_naoh": 0.131,
+	"recommande": "5–20 %",
+	"qualite": "Douce, nourrissante, peau sèche",
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile de jojoba",
+	"sap_naoh": 0.069,
+	"recommande": "1–5 %",
+	"qualite": "Conditionnante, très stable",
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile de Kapok",
+	"sap_naoh": 0.1461,
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile de Kukui",
+	"sap_naoh": 0.135,
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile de Lanoline",
+	"sap_naoh": 0.0741,
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile de Limanthes",
+	"sap_naoh": 0.1207,
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile de lin",
+	"sap_naoh": 0.1357,
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile de macadamia",
+	"sap_naoh": 0.139,
+	"recommande": "5–20 %",
+	"qualite": "Toucher soyeux",
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile de maïs",
+	"sap_naoh": 0.136,
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile de Neem",
+	"sap_naoh": 0.138,
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile de Noisette",
+	"sap_naoh": 0.1356,
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile de Noix de brésil",
+	"sap_naoh": 0.175,
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile de noix de coco",
+	"sap_naoh": 0.183,
+	"recommande": "15–30 %",
+	"qualite": "durete, pouvoir lavant",
+	"durete": "Élevée",
+	"mousse": "Abondante"
+	},
+	{
+	"nom": "Huile de Noyau de pêche",
+	"sap_naoh": 0.137,
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile d’olive",
+	"sap_naoh": 0.134,
+	"recommande": "30–70 %",
+	"qualite": "Douce, nourrissante, peau sèche",
+	"durete": "Moyenne",
+	"mousse": "Crémeuse"
+	},
+	{
+	"nom": "Huile d'onagre bisannuelle",
+	"sap_naoh": 0.1357,
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile de palme",
+	"sap_naoh": 0.142,
+	"recommande": "20–40 %",
+	"qualite": "durete, stabilité",
+	"durete": "Élevée",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile de pavot",
+	"sap_naoh": 0.1383,
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile de Pépins de raisin",
+	"sap_naoh": 0.132,
+	"recommande": "5–15 %",
+	"qualite": "Légère, pénétrante",
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile de Perilla",
+	"sap_naoh": 0.1369,
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile de Pistache",
+	"sap_naoh": 0.1328,
+	"qualite": "Base du savon d'Alep",
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile de ricin",
+	"sap_naoh": 0.1283,
+	"recommande": "3–10 %",
+	"qualite": "Boost mousse, crémeux",
+	"durete": "Faible",
+	"mousse": "Abondante"
+	},
+	{
+	"nom": "Huile de Rose musquée",
+	"sap_naoh": 0.1378,
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile de sésame",
+	"sap_naoh": 0.133,
+	"recommande": "5–15 %",
+	"qualite": "Antioxydante, protectrice",
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile de Son de riz",
+	"sap_naoh": 0.128,
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile de Soja",
+	"sap_naoh": 0.135,
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile de Tamanu",
+	"sap_naoh": 0.1357,
+	"durete": "Faible",
+	"mousse": "Faible"
+	},
+	{
+	"nom": "Huile de tournesol",
+	"sap_naoh": 0.135,
+	"recommande": "5–30 %",
+	"qualite": "Douce, légère",
+	"durete": "Faible",
+	"mousse": "Faible"
+	}
+  ]
+}
