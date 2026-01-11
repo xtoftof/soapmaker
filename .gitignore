@@ -129,6 +129,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+venv_soap311/
 
 # Spyder project settings
 .spyderproject
