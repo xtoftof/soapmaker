@@ -133,7 +133,7 @@ class SoapMakerApp:
         # Démarrage
         self.afficher_splashscreen()
     
-    # ============ SPLASHSCREEN ============
+    # ============ SPLASHSCREEN ===============================================
     
     def afficher_splashscreen(self):
         """Affiche le splash avec animation simple"""
